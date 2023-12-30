@@ -1,4 +1,4 @@
-# GPax
+# GPax for fashion
 A codebase for Gaussian processes in Jax. 
 
 Disclaimer: This is not an officially supported Google product.
