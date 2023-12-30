@@ -1,7 +1,7 @@
-# GPax
+# GPax based for fashion
 A codebase for Gaussian processes in Jax. 
 
-Disclaimer: This is not an officially supported Google product.
+Disclaimer: The code is based on GPP
 
 ## Gaussian process probes (GPP)
 Please find algorithm descriptions in *[Gaussian Process Probes (GPP) for Uncertainty-Aware Probing](https://arxiv.org/abs/2305.18213)*.
