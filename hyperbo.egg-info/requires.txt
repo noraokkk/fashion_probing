@@ -1,0 +1,8 @@
+absl-py>=0.8.1
+flax
+jax
+ml_collections
+numpy>=1.7
+optax
+pandas
+tensorflow_probability

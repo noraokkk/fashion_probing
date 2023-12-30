@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: hyperbo
+Version: 0.0.1
+Summary: hyperbo
+Home-page: http://github.com/google-research/hyperbo
+Author: HyperBO Team
+Author-email: wangzi@google.com
+License: Apache 2.0
+Keywords: gaussian process jax
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+License-File: LICENSE
